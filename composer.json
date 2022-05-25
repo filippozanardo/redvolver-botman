@@ -1,0 +1,19 @@
+{
+    "name": "filippozanardo/redvolver-botman",
+    "authors": [
+        {
+            "name": "Filippo Zanardo",
+            "email": "zanardo.filippo@gmail.com"
+        }
+    ],
+    "require": {
+        "htmlburger/carbon-fields": "^3.0",
+        "tareq1988/wp-eloquent": "dev-master",
+        "botman/botman": "^2.4",
+        "botman/driver-web": "^1.5",
+        "botman/driver-facebook": "^1.9",
+        "symfony/cache": "^4.2",
+        "kerox/messenger": "^3.1",
+        "nesbot/carbon": "^1.26.3"
+    }
+}
